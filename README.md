@@ -1,2 +1,2 @@
-# Portofolio-UMK
-CV
+CV Link: https://umkpp.github.io/Portofolio-UMK/ 
+
